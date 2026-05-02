@@ -39,7 +39,7 @@
     "tailwind-merge": "^2.2.2",
     "kitoken": "^0.10.1",
     "tlds": "^1.255.0",
-    "uuid": "^9.0.0",
+    "uuid": "^14.0.0",
     "y-prosemirror": "~1.2.6",
     "y-protocols": "~1.0.6",
     "yjs": "13.6.16"
